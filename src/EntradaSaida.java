@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class EntradaSaida {
     public static int solicitaOperacao() {
-        int operacao = Integer.parseInt(JOptionPane.showInputDialog("Eschola a operação desejada: \n" +
+        int operacao = Integer.parseInt(JOptionPane.showInputDialog("Escolha a operação desejada: \n" +
                 "1- Soma\n" +
                 "2- Subtração\n" +
                 "3- Multiplicação\n" +
